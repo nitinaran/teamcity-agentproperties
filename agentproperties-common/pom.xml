@@ -4,7 +4,7 @@
   <parent>
     <artifactId>agentproperties</artifactId>
     <groupId>com.teamcity.agentproperties</groupId>
-    <version>1.0</version>
+    <version>1.1</version>
   </parent>
   <artifactId>agentproperties-common</artifactId>
   <packaging>jar</packaging>
